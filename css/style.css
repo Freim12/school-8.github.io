@@ -37,7 +37,6 @@ nav ul {
   background: #273037;
   left: 0;
   top: 100%;
-  z-index: 5;
   width: 500%;
   display: none;
 }
